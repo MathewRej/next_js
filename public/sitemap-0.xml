@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://localhost:3000</loc><lastmod>2022-11-28T04:22:32.103Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/our-works</loc><lastmod>2022-11-28T04:22:32.103Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/our-works/WorksStyles</loc><lastmod>2022-11-28T04:22:32.103Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/our-works/web-designing</loc><lastmod>2022-11-28T04:22:32.103Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/our-works/ecommerce</loc><lastmod>2022-11-28T04:22:32.103Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/our-works/iot-and-ai</loc><lastmod>2022-11-28T04:22:32.103Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/our-works/mobile-application</loc><lastmod>2022-11-28T04:22:32.103Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/our-works/web-application</loc><lastmod>2022-11-28T04:22:32.103Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>

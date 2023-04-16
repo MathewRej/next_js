@@ -1,0 +1,5 @@
+module.exports = {
+    siteUrl: 'https://localhost:3000',
+    generateRobotsTxt: true, // (optional)
+    // ...other options
+  }
